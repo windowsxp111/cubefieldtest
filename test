@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link rel="stylesheet" href="https://c.staticblitz.com/assets/pack/preview-fe9dd8655d2ba.css" />
+  <script src="https://c.staticblitz.com/d/webcontainer.a8c70b9797689ab630bc39693935365c46b0aa9d.js" crossorigin="anonymous"></script>
+  <script src="https://c.staticblitz.com/assets/pack/preview-70b26ed60029a.js" crossorigin="anonymous"></script>
+  <script>__preboot("https://l.staticblitz.com/b/v1/cubefield/4fa653dca2b", {"p":"stackblitz","a":"AIzaSyBZSvuCzbUhuRrSps-HjM5bFClLPaFF9Vg","o":true,"u":"Joh4nnesB","$":false})</script>
+</head>
+<body></body>
+</html>
